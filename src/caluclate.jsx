@@ -120,9 +120,7 @@ export class CaluclateAmount extends React.Component {
                                     <TableCell align="right" sx={{ border: 1 }}>{row.name}</TableCell>
                                     <TableCell align="right" sx={{ border: 1 }}>{row.transaction_date}</TableCell>
                                     <TableCell align="right" sx={{ border: 1 }}>{row.email}</TableCell>
-                                    <TableCell align="right" sx={{ border: 1 }}>
-                                        <TextField value={row.amount || 0} onChange={(value) => this.caluclateAmountChange(value, index, row.id)} />
-                                    </TableCell>
+                                    <TableCell align="right" sx={{ border: 1 }}>{row.amount || 0}</TableCell>
                                     <TableCell align="right" sx={{ border: 1 }}>{row.points}</TableCell>
                                 </TableRow>
                             ))}
