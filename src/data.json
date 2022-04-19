@@ -6,7 +6,9 @@
         "adderss": "South street",
         "transaction_date": "2022-01-02T00:00:00.000Z",
         "amount": 80,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 2,
@@ -15,7 +17,9 @@
         "adderss": "North street",
         "transaction_date": "2022-01-13T00:00:00.000Z",
         "amount": 30,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 3,
@@ -24,7 +28,9 @@
         "adderss": "East street",
         "transaction_date": "2022-01-21T00:00:00.000Z",
         "amount": 55,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 4,
@@ -33,7 +39,9 @@
         "adderss": "West street",
         "transaction_date": "2022-02-21T00:00:00.000Z",
         "amount": 0,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 5,
@@ -41,8 +49,10 @@
         "email": "Sat@mail.com",
         "adderss": "South street",
         "transaction_date": "2022-02-01T00:00:00.000Z",
-        "amount": 45,
-        "points": 0
+        "amount": 100,
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 6,
@@ -51,7 +61,9 @@
         "adderss": "North street",
         "transaction_date": "2022-02-14T00:00:00.000Z",
         "amount": 56,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 7,
@@ -60,7 +72,9 @@
         "adderss": "East street",
         "transaction_date": "2022-02-22T00:00:00.000Z",
         "amount": 71,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 8,
@@ -69,7 +83,9 @@
         "adderss": "South street",
         "transaction_date": "2022-03-02T00:00:00.000Z",
         "amount": 92,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 9,
@@ -78,7 +94,9 @@
         "adderss": "North street",
         "transaction_date": "2022-03-16T00:00:00.000Z",
         "amount": 2,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     },
     {
         "id": 10,
@@ -87,6 +105,8 @@
         "adderss": "East street",
         "transaction_date": "2022-03-26T00:00:00.000Z",
         "amount": 9,
-        "points": 0
+        "points": 0,
+        "isEditable": false,
+        "complete": false
     }
 ]
