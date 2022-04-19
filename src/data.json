@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "deere",
+        "email": "Sat@mail.com",
+        "adderss": "South street",
+        "transaction_date": "2022-01-02T00:00:00.000Z",
+        "amount": 80,
+        "points": 0
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "email": "john@mail.com",
+        "adderss": "North street",
+        "transaction_date": "2022-01-13T00:00:00.000Z",
+        "amount": 30,
+        "points": 0
+    },
+    {
+        "id": 3,
+        "name": "Robert",
+        "email": "robert@mail.com",
+        "adderss": "East street",
+        "transaction_date": "2022-01-21T00:00:00.000Z",
+        "amount": 55,
+        "points": 0
+    },
+    {
+        "id": 4,
+        "name": "Mani",
+        "email": "mani@mail.com",
+        "adderss": "West street",
+        "transaction_date": "2022-02-21T00:00:00.000Z",
+        "amount": 0,
+        "points": 0
+    },
+    {
+        "id": 5,
+        "name": "pavi",
+        "email": "Sat@mail.com",
+        "adderss": "South street",
+        "transaction_date": "2022-02-01T00:00:00.000Z",
+        "amount": 45,
+        "points": 0
+    },
+    {
+        "id": 6,
+        "name": "ram",
+        "email": "john@mail.com",
+        "adderss": "North street",
+        "transaction_date": "2022-02-14T00:00:00.000Z",
+        "amount": 56,
+        "points": 0
+    },
+    {
+        "id": 7,
+        "name": "david",
+        "email": "robert@mail.com",
+        "adderss": "East street",
+        "transaction_date": "2022-02-22T00:00:00.000Z",
+        "amount": 71,
+        "points": 0
+    },
+    {
+        "id": 8,
+        "name": "jason",
+        "email": "Sat@mail.com",
+        "adderss": "South street",
+        "transaction_date": "2022-03-02T00:00:00.000Z",
+        "amount": 92,
+        "points": 0
+    },
+    {
+        "id": 9,
+        "name": "holder",
+        "email": "john@mail.com",
+        "adderss": "North street",
+        "transaction_date": "2022-03-16T00:00:00.000Z",
+        "amount": 2,
+        "points": 0
+    },
+    {
+        "id": 10,
+        "name": "roy",
+        "email": "robert@mail.com",
+        "adderss": "East street",
+        "transaction_date": "2022-03-26T00:00:00.000Z",
+        "amount": 9,
+        "points": 0
+    }
+]
